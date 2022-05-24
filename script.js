@@ -86,7 +86,7 @@ function waitAndResponce(inputText) {
             break;
 
         case "education":
-            sendTextMessage("I am currently pusuing B.Tech degree in Electronics and Communication Enginnering from National Institute of Technology Sikkim <br>Passing Year : 2023<br> CGPA(till 5th sem): 7.72 <br><br>I have completed my senior secondary from Kendriya Vidhyalaya, NHPC Singtam<br>Passing Year: 2018<br>Result: 73.3%<br><br>I have completed my Secondary education from Govt. Secondary School, Singtam<br>Passing Year: 2016<br>Result: 9.8 CGPA");
+            sendTextMessage("I am currently pursuing B.Tech degree in Electronics and Communication Engineering from National Institute of Technology Sikkim. <br>Passing Year : 2023<br> CGPA(till 5th sem): 7.72 <br><br>I have completed my senior secondary from Kendriya Vidhyalaya, NHPC Singtam.<br>Passing Year: 2018<br>Result: 73.3%<br><br>I have completed my Secondary education from Govt. Secondary School, Singtam<br>Passing Year: 2016<br>Result: 9.8 CGPA");
             break;
 
         case "address":
